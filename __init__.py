@@ -4,7 +4,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (2, 80, 0),
     "location": "View3D > Object",
-    "description": "Display an axes at the origin.  Includes arrows and axis labels",
+    "description": "Display axes at the origin.  Includes arrows and axis labels",
     "warning": "",
     "doc_url": "",
     "category": "3D View",
